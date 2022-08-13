@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/router-v5-protected-routes/static/css/main.3f300dbf.css",
+    "main.js": "/router-v5-protected-routes/static/js/main.fe1d556c.js",
+    "static/js/787.97aede85.chunk.js": "/router-v5-protected-routes/static/js/787.97aede85.chunk.js",
+    "index.html": "/router-v5-protected-routes/index.html",
+    "main.3f300dbf.css.map": "/router-v5-protected-routes/static/css/main.3f300dbf.css.map",
+    "main.fe1d556c.js.map": "/router-v5-protected-routes/static/js/main.fe1d556c.js.map",
+    "787.97aede85.chunk.js.map": "/router-v5-protected-routes/static/js/787.97aede85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f300dbf.css",
+    "static/js/main.fe1d556c.js"
+  ]
+}
